@@ -17,3 +17,15 @@ This portfolio highlights my projects, experience, and skills in a visually appe
 1. Clone the repository:
    ```bash
    git clone https://github.com/sukrit-i/Portfolio.git
+
+   Install dependencies:
+
+npm install
+
+
+Run locally:
+
+npm run dev
+
+
+Open your browser and go to http://localhost:5173 (default Vite dev server port).
