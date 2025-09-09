@@ -18,14 +18,13 @@ This portfolio highlights my projects, experience, and skills in a visually appe
    ```bash
    git clone https://github.com/sukrit-i/Portfolio.git
 
-   Install dependencies:
+2. Install dependencies:
+   ```bash
+   npm install
 
-npm install
-
-
-Run locally:
-
-npm run dev
+3. Run locally:
+   ```bash
+   npm run dev
 
 
 Open your browser and go to http://localhost:5173 (default Vite dev server port).
